@@ -8,8 +8,8 @@
  ``` (shift+enter for line break)
 LoginForm2/index.html";
 ```
-Note: This to Work, Please See This Link [title](http://https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_signup_form_moda
-and [title](https://www.w3schools.com/howto/howto_css_signup_form.asp).
+Note: This to Work, Please See This Link [signup ww3](http://https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_signup_form_moda
+and [Login ww3](https://www.w3schools.com/howto/howto_css_signup_form.asp.
 
 **Php Severs Are Setuup Via Yourself**
 
@@ -22,5 +22,5 @@ Copy Sorce COde login.js and expand yourself
 
 ### Credits
 
-Please Credit my Github.
+Please Credit my Github And This Link: https://www.formget.com/javascript-login-form/
 
